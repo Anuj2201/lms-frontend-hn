@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  magin:auto;
+  max-width:1440px;
+  position :relative;
+}
